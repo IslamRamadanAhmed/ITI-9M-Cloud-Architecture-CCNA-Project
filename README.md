@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Enterprise Multi-Site Network — CCNA Capstone Project
+# 🌐 Enterprise Multi-Site Network — CCNA Final Project
 
 **Design, addressing and full implementation of a two-branch enterprise network with an ISP edge, built in Cisco Packet Tracer 8.2.2**
 
@@ -13,7 +13,7 @@
 
 *Information Technology Institute (ITI) — CCNA Final Project*
 
-🔗 **[Live website demo](https://islamramadanahmed.github.io/ITI-9M-Cloud-Architecture-CCNA-Capstone/web/)**
+🔗 **[Live website demo](https://islamramadanahmed.github.io/ITI-9M-Cloud-Architecture-CCNA-Project/web/)**
 
 </div>
 
@@ -265,7 +265,7 @@ The `web/` folder contains the ITI-style website uploaded to **Server1** (HTTP s
 | `team.html` | Team members |
 
 - **Inside the simulation:** reachable at `http://www.iti.com` or `http://iti.com` from internal PCs (internal DNS → `10.40.0.2`) and from the external PC16 (external DNS → `50.50.50.2` via Static NAT).
-- **Live demo (GitHub Pages):** [https://islamramadanahmed.github.io/ITI-9M-Cloud-Architecture-CCNA-Capstone/web/](https://islamramadanahmed.github.io/ITI-9M-Cloud-Architecture-CCNA-Capstone/web/)
+- **Live demo (GitHub Pages):** [https://islamramadanahmed.github.io/ITI-9M-Cloud-Architecture-CCNA-Project/web/](https://islamramadanahmed.github.io/ITI-9M-Cloud-Architecture-CCNA-Project/web/)
 - **Outside the simulation:** open `web/index.html` in any browser to preview the site locally.
 
 ---
@@ -330,7 +330,7 @@ The `web/` folder contains the ITI-style website uploaded to **Server1** (HTTP s
 1. Install **Cisco Packet Tracer 8.2.2** (or newer) — free from [Cisco Networking Academy](https://www.netacad.com/).
 2. Clone or download this repository:
    ```bash
-   git clone https://github.com/IslamRamadanAhmed/ITI-9M-Cloud-Architecture-CCNA-Capstone.git
+   git clone https://github.com/IslamRamadanAhmed/ITI-9M-Cloud-Architecture-CCNA-Project.git
    ```
 3. Open `packet-tracer/CCNA_Final_Project.pkt` in Packet Tracer.
 4. Optional: open `web/index.html` in a browser to preview the website on its own.
