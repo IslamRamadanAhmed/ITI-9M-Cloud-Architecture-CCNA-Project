@@ -13,6 +13,8 @@
 
 *Information Technology Institute (ITI) — CCNA Final Project*
 
+🔗 **[Live website demo](https://islamramadanahmed.github.io/ITI-9M-Cloud-Architecture-CCNA-Capstone/web/)**
+
 </div>
 
 ---
@@ -263,6 +265,7 @@ The `web/` folder contains the ITI-style website uploaded to **Server1** (HTTP s
 | `team.html` | Team members |
 
 - **Inside the simulation:** reachable at `http://www.iti.com` or `http://iti.com` from internal PCs (internal DNS → `10.40.0.2`) and from the external PC16 (external DNS → `50.50.50.2` via Static NAT).
+- **Live demo (GitHub Pages):** [https://islamramadanahmed.github.io/ITI-9M-Cloud-Architecture-CCNA-Capstone/web/](https://islamramadanahmed.github.io/ITI-9M-Cloud-Architecture-CCNA-Capstone/web/)
 - **Outside the simulation:** open `web/index.html` in any browser to preview the site locally.
 
 ---
